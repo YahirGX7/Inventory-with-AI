@@ -1,0 +1,5 @@
+pip install open cv
+pip install tensorflow
+pip install tensorflow_hub
+pip install numpy
+pip install pymysql
