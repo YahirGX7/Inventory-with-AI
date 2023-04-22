@@ -12,6 +12,7 @@ There is three buttons:
 
 The predictions of the model provided here are limited due it was trained with a small dataset, if you want to use your own model, replace the path in the atribute
 "self.MODEL" in the UsingAI class, also if you model don't use custom layers of tensorflow hub (like MobileNetV2) delete the "custom_objects" parameter.
+Also don't forget to change the path to the config.json file in the DB_pymysql class.
 
 The table that you need for this to work, can be created with the next code in MySQL Workbench:
 
