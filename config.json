@@ -1,1 +1,1 @@
-{"usuario": "your_user_here", "contraseña": "your_password_here", "database": "your_database_here", "puerto": your_port_here, "host": "your_host_here"}
+{"usuario": "your_user_here", "contraseña": "your_password_here", "database": "your_database_here", "puerto": "your_port_here", "host": "your_host_here"}
